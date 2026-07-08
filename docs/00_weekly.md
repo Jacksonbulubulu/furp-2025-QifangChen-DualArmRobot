@@ -50,6 +50,6 @@ Increase the track_angular_velocity reward weight to mitigate yaw drift.
 Reduce the flat_orientation_l2 penalty weight (-1.0 → -0.5) to relax posture constraints.
 Initiate Run 9 to tune angular tracking weights, or enable Viser web visualization for real-time debugging.
 Conduct preliminary real-world testing with the current model in a controlled environment.
-**Hours spent (optional):**
+**Hours spent (optional):20
 
-**Links (optional):**
+**Links (optional):**https://github.com/Jacksonbulubulu/furp-2025-QifangChen-DualArmRobot/blob/master/.github/Viser%20%E5%92%8C%E5%8F%A6%E5%A4%96%202%20%E4%B8%AA%E9%A1%B5%E9%9D%A2%20-%20%E4%B8%AA%E4%BA%BA%20-%20Microsoft%E2%80%8B%20Edge%202026-06-30%2019-37-24.mp4
